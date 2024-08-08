@@ -1,4 +1,9 @@
 body {
     color:white;
     background: black;
+    margin: 0px;
+}
+
+header {
+    bonder-bottom: solid 2px rgb(38, 28, 122);
 }
